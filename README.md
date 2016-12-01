@@ -23,7 +23,7 @@ $ composer require SimonGonzalezCepeda/Scool-Social-Todos
 ## Usage
 
 ``` php
-$skeleton = new Acacha-Scool\Social\Todos();
+$skeleton = new AcachaScool\Social\Todos();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 

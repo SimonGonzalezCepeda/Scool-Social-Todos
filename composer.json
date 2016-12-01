@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Acacha-Scool\\Social\\Todos\\": "src"
+            "AcachaScool\\Social\\Todos\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Acacha-Scool\\Social\\Todos\\": "tests"
+            "AcachaScool\\Social\\Todos\\": "tests"
         }
     },
     "scripts": {
