@@ -1,6 +1,6 @@
 <?php
 
-namespace Acacha-Scool\Social\Todos;
+namespace AcachaScool\Social\Todos;
 
 class SkeletonClass
 {
